@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "SignUp Login Firebase"
+rootProject.name = "ChatWithGPT"
 include ':app'
